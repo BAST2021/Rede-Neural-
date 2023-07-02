@@ -6,10 +6,12 @@ O Projeto tem como objetivo é criar uma rede neural com a biblioteca pytorch pa
 ## Como foi desenvolvido ?
 
  Para o desenvolvimento do projeto utilizamos bibliotecas :
+ 
  - pandas
  - pytorch
  - sklearn
  - matplotlib.pyplot
+ - numpy 
 
 ## Qual seria a utilidade na vida real deste projeto?
 Para quando mulheres que venham a ter câncer de mama seja mais fácil de analisar sobre o histórico de dados da paciente qual o melhor caminho para o médico esteja seguindo melhorando 
@@ -26,6 +28,11 @@ Teve-se uma acurácia de 83.47%
 
 ## Autores  
 
-Bruno A. Silveira
+- Bruno A. Silveira
+- Jaqueline Cella
 
-linkedin https://www.linkedin.com/in/bruno-alves-da-silveira-654b64223/
+linkedin
+
+-https://www.linkedin.com/in/bruno-alves-da-silveira-654b64223/
+
+-https://github.com/jaquelinecella
